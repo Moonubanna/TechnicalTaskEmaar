@@ -19,8 +19,6 @@ target 'TechnicalTask' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  pod 'react-native-keep-awake', :path => '../node_modules/react-native-keep-awake'
-
   target 'TechnicalTaskTests' do
     inherit! :complete
     # Pods for testing
