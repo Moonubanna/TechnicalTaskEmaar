@@ -90,6 +90,7 @@ export const SCREEN = {
   SCREEN_SPLASH: 'Splash',
   SCREEN_USERS: 'Users',
   SCREEN_DETAIL: 'Detail',
+  SCREEN_VIDEO_PLAYER: 'VideoPlayerList',
 };
 
 //HEIGHT AND WIDTH

@@ -1,12 +1,12 @@
 import React from 'react';
 import {BookContext} from '../../contexts';
-import Users from './Users';
+import VideoPlayerList from './VideoPlayerList';
 
 const WorldPage = ({ navigation,route }) => {
 
     return (
         <BookContext.Provider value={{ navigation,route }}>
-            <Users />
+            <VideoPlayerList />
         </BookContext.Provider>
     )
 }

@@ -1,0 +1,282 @@
+{
+    "data": {
+        "data": [
+            {
+                "category_id": [
+                    {
+                        "id": 9,
+                        "interest_image_url": null,
+                        "name": "Not selected"
+                    }
+                ],
+                "content_id": 14425,
+                "created_on": "2022-05-31T12:53:05.092750",
+                "feed_created_by": {
+                    "banner_image_url": "post_profile_pictures/499/497371",
+                    "email": "aishu01491@gmail.com",
+                    "first_name": "AISHWYARYA",
+                    "id": 499,
+                    "last_name": "DESHPABBB",
+                    "middle_name": "",
+                    "profile_image_url": "post_profile_pictures/499/1654001823368_38be6a73-100f-45ce-9833-baf8ce31a55f.jpg",
+                    "user_type": {
+                        "id": 3,
+                        "name": "Influencer"
+                    },
+                    "username": "aishu01491"
+                },
+                "feed_types": [
+                    {
+                        "id": 2,
+                        "name": "Image"
+                    }
+                ],
+                "id": 12344,
+                "is_deleted": false,
+                "is_self": false,
+                "posts": {
+                    "comment_count": 1,
+                    "content_urls": [
+                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+                    ],
+                    "created_on": "2022-05-31T12:50:23.546927",
+                    "id": 14425,
+                    "ingredient": null,
+                    "is_bookmarked": false,
+                    "is_liked": false,
+                    "liked_by": [],
+                    "liked_count": 0,
+                    "status": "COMPLETE",
+                    "steps": null,
+                    "taged_users": [],
+                    "tagged_id": null,
+                    "text": "Test",
+                    "thumb_nail_urls": null,
+                    "thumbnail_flags": [
+                        true,
+                        true
+                    ],
+                    "title": "Test tesf",
+                    "type": 1
+                },
+                "share_url": "https://g4.app.link/vC8xYyHJtqb",
+                "status": "COMPLETE",
+                "tagged_id": null,
+                "type": 1
+            },
+            {
+                "category_id": [
+                    {
+                        "id": 9,
+                        "interest_image_url": null,
+                        "name": "Not selected"
+                    }
+                ],
+                "content_id": 14411,
+                "created_on": "2022-05-31T11:44:22.427953",
+                "feed_created_by": {
+                    "banner_image_url": "post_profile_pictures/499/497371",
+                    "email": "aishu01491@gmail.com",
+                    "first_name": "AISHWYARYA",
+                    "id": 499,
+                    "last_name": "DESHPABBB",
+                    "middle_name": "",
+                    "profile_image_url": "post_profile_pictures/499/1654001823368_38be6a73-100f-45ce-9833-baf8ce31a55f.jpg",
+                    "user_type": {
+                        "id": 3,
+                        "name": "Influencer"
+                    },
+                    "username": "aishu01491"
+                },
+                "feed_types": [
+                    {
+                        "id": 3,
+                        "name": "Video"
+                    }
+                ],
+                "id": 12328,
+                "is_deleted": false,
+                "is_self": false,
+                "posts": {
+                    "comment_count": 1,
+                    "content_urls": [
+                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+                    ],
+                    "created_on": "2022-05-31T11:43:55.711352",
+                    "id": 14411,
+                    "ingredient": [],
+                    "is_bookmarked": false,
+                    "is_liked": false,
+                    "liked_by": [
+                        {
+                            "email": "shital.shinde@canwilltech.com",
+                            "first_name": "SHITAL B",
+                            "id": 133,
+                            "interests": [
+                                {
+                                    "id": 1,
+                                    "interest_image_url": "interest/Cannabis.png",
+                                    "name": "Cannabis"
+                                },
+                                {
+                                    "id": 2,
+                                    "interest_image_url": null,
+                                    "name": "CBD"
+                                },
+                                {
+                                    "id": 3,
+                                    "interest_image_url": "interest/food+and+beverage.jpg",
+                                    "name": "Food & Beverage"
+                                },
+                                {
+                                    "id": 4,
+                                    "interest_image_url": "interest/Design.jpg",
+                                    "name": "Design"
+                                },
+                                {
+                                    "id": 5,
+                                    "interest_image_url": "interest/Entertainment.jpg",
+                                    "name": "Entertainment"
+                                },
+                                {
+                                    "id": 6,
+                                    "interest_image_url": "interest/Garden.jpg",
+                                    "name": "Garden"
+                                },
+                                {
+                                    "id": 7,
+                                    "interest_image_url": "interest/Outdoors.jpg",
+                                    "name": "Outdoors"
+                                },
+                                {
+                                    "id": 8,
+                                    "interest_image_url": "interest/Travealing.png",
+                                    "name": "Travel"
+                                },
+                                {
+                                    "id": 10,
+                                    "interest_image_url": "interest/Ketamine+Therapy.jpg",
+                                    "name": "Ketamine Therapy"
+                                },
+                                {
+                                    "id": 11,
+                                    "interest_image_url": "interest/Psilocybin.jpg",
+                                    "name": "Psilocybin"
+                                },
+                                {
+                                    "id": 12,
+                                    "interest_image_url": "interest/Kratom.jpg",
+                                    "name": "Kratom"
+                                },
+                                {
+                                    "id": 13,
+                                    "interest_image_url": "interest/music.jpg",
+                                    "name": "Music"
+                                },
+                                {
+                                    "id": 14,
+                                    "interest_image_url": "interest/comedy.jpg",
+                                    "name": "Comedy"
+                                },
+                                {
+                                    "id": 15,
+                                    "interest_image_url": "interest/Fashion.jpg",
+                                    "name": "Fashion"
+                                },
+                                {
+                                    "id": 16,
+                                    "interest_image_url": "interest/Art.jpg",
+                                    "name": "Art"
+                                },
+                                {
+                                    "id": 17,
+                                    "interest_image_url": "interest/Health+%26+Wellness.jpg",
+                                    "name": "Health & Wellness"
+                                },
+                                {
+                                    "id": 18,
+                                    "interest_image_url": "interest/Technology.jpg",
+                                    "name": "Technology"
+                                },
+                                {
+                                    "id": 19,
+                                    "interest_image_url": "interest/Technology.jpg",
+                                    "name": "Sports"
+                                },
+                                {
+                                    "id": 20,
+                                    "interest_image_url": "interest/Marketing.png",
+                                    "name": "Business & Finance"
+                                },
+                                {
+                                    "id": 21,
+                                    "interest_image_url": "interest/Animals.jpg",
+                                    "name": "Animals"
+                                },
+                                {
+                                    "id": 22,
+                                    "interest_image_url": "interest/adventure.jpg",
+                                    "name": "Adventure"
+                                },
+                                {
+                                    "id": 23,
+                                    "interest_image_url": "interest/Sexy+shit.jpg",
+                                    "name": "Motivation"
+                                },
+                                {
+                                    "id": 24,
+                                    "interest_image_url": null,
+                                    "name": "Sexy Shit"
+                                }
+                            ],
+                            "last_name": "Shinde",
+                            "middle_name": "",
+                            "profile_image_url": "post_profile_pictures/133/1653890662497_e545c46f-6029-43a0-9945-1bcf2d52227f.jpg",
+                            "user_type": {
+                                "id": 34,
+                                "name": "Personal"
+                            },
+                            "username": "shital"
+                        }
+                    ],
+                    "liked_count": 1,
+                    "status": "COMPLETE",
+                    "steps": [],
+                    "taged_users": [],
+                    "tagged_id": null,
+                    "text": "Test edited ",
+                    "thumb_nail_urls": [
+                        "post_videos/499/1653997461422_505d3497-06d2-440a-bdcf-1b102cdfdfa8_duration_12_493_width_270_post_14411_thumbnail.png"
+                    ],
+                    "thumbnail_flags": [
+                        true,
+                         true
+                    ],
+                    "title": "Test new videos",
+                    "type": 1
+                },
+                "share_url": "https://g4.app.link/SZLlJ8MEtqb",
+                "status": "COMPLETE",
+                "tagged_id": null,
+                "type": 1
+            }
+        ],
+        "is_new_notification_or_follow_request": false,
+        "pagination": {
+            "currentPage": "/dev/feed/529?categories=21%2C20%2C2%2C12%2C24%2C18&page=1&type=7%2C1%2C3%2C2%2C4%2C5&size=10",
+            "hasNext": true,
+            "hasPrev": false,
+            "next": "/dev/feed/529?categories=21%2C20%2C2%2C12%2C24%2C18&page=2&type=7%2C1%2C3%2C2%2C4%2C5&size=10",
+            "pages": 125,
+            "size": 10,
+            "totalElements": 1244
+        }
+    },
+    "message": [
+        null
+    ],
+    "status": 200,
+    "success": true
+}

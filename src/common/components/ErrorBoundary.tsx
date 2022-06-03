@@ -16,12 +16,12 @@ class ErrorBoundary extends Component {
     };
   }
 
-  static getDerivedStateFromError(error) {
-    console.warn('enter_Error', error)
-    return {
-      hasError: true,
-    };
-  }
+  // static getDerivedStateFromError(error) {
+  //   console.warn('enter_Error', error)
+  //   return {
+  //     hasError: true,
+  //   };
+  // }
 
   componentDidCatch(error, errorInfo) {
     console.log('Error: ' + error);
@@ -30,6 +30,7 @@ class ErrorBoundary extends Component {
     this.setState({
       error: error,
       errorInfo: errorInfo,
+      hasError: true
     },);
   }
 

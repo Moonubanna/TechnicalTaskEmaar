@@ -23,6 +23,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import Splash from '../common/components/AuthLoadingScreen';
 import Users from './../screens/users';
 import Detail from './../screens/detail';
+import VideoPlayerList from './../screens/videoplayerlist';
 //Libraries
 import NetInfo from '@react-native-community/netinfo';
 import NoInternetLoader from './../common/components/NoInternetLoader';
@@ -73,6 +74,10 @@ const Routes = () => {
             <RootStack.Screen
               name={SCREEN.SCREEN_DETAIL}
               component={Detail}
+            />
+            <RootStack.Screen
+              name={SCREEN.SCREEN_VIDEO_PLAYER}
+              component={VideoPlayerList}
             />
           </RootStack.Navigator>
         </NavigationContainer>

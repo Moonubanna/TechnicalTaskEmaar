@@ -13,7 +13,7 @@ const ChildUserInfo = (userData: any) => {
         {`Date Joined: ${Utils.timeSince(userData?.registered?.date)}`}
       </Text>
       <Text style={styles.text} numberOfLines={1}>
-        {`DOB: ${Utils.convertDateTimeFormate(userData?.dob?.dob)}`}
+        {`DOB: ${Utils.convertDateTimeFormate(userData?.dob?.date)}`}
       </Text>
     </View>
   );

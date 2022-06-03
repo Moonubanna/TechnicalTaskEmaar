@@ -12,7 +12,7 @@ const AuthLoadingScreen = ({navigation}) => {
 
   const _redirectUsers = () => {
     setTimeout(() => {
-      Utils.clearStack(navigation, SCREEN.SCREEN_USERS);
+      Utils.clearStack(navigation, SCREEN.SCREEN_VIDEO_PLAYER);
     }, 2000);
   };
   return (

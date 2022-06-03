@@ -38,7 +38,6 @@ export const clearStack = (navigation: any, screenName: any) => {
 };
 
 export const convertDateTimeFormate = (date: any) => {
-  moment.locale('en');
   var dt = date;
   return moment(dt).format('DD MMM YYYY'); //basically you can do all
 };
